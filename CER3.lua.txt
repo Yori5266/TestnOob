@@ -472,10 +472,10 @@ end
 
 local _Discord = Tabs.Discord do
   _Discord:AddDiscordInvite({
-    Name = "redz Hub | Community",
-    Description = "Join our discord community to receive information about the next update",
+    Name = "NoAH Hub | Community",
+    Description = " ENJOY MY SCRIPT ",
     Logo = "rbxassetid://104936061756619",
-    Invite = "https://discord.gg/7aR7kNVt4g"
+  
   })
 end
 
